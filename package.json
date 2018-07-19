@@ -1,0 +1,16 @@
+{
+  "name": "rerouter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aleh Kashnikau",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.1",
+    "ts-jest": "^23.0.1",
+    "typescript": "^2.9.2"
+  }
+}
